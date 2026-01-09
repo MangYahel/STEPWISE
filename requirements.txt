@@ -1,5 +1,8 @@
 fastapi
 uvicorn
+gunicorn
 azure-cognitiveservices-speech
 azure-ai-textanalytics
-python-dotenv
+azure-core
+pydantic
+
